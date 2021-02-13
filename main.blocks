@@ -15,4 +15,4 @@
 . . . . . 8 8 8 . . 8 8 8 . . . 
 . . . . . 9 9 9 . . 9 9 9 . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="dwsoFzB?mvm!Wh49auHL"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="dwsoFzB?mvm!Wh49auHL"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
