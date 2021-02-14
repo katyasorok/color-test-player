@@ -1,5 +1,5 @@
 {
-    "name": "color test",
+    "name": "walk/attack animation",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -12,7 +12,8 @@
         "tilemap.g.jres",
         "tilemap.g.ts",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -27,20 +28,20 @@
     "preferredEditor": "blocksprj",
     "palette": [
         "#000000",
-        "#ffffff",
-        "#ff2121",
-        "#ff93c4",
-        "#ff8135",
-        "#fff609",
-        "#249ca3",
-        "#78dc52",
-        "#003fad",
-        "#87f2ff",
-        "#8e2ec4",
-        "#a4839f",
-        "#5c406c",
-        "#e5cdc4",
-        "#91463d",
-        "#000000"
+        "#645522",
+        "#afdf00",
+        "#5f8042",
+        "#33b900",
+        "#a29882",
+        "#01a440",
+        "#e7c128",
+        "#72b383",
+        "#8e7a00",
+        "#d9ffd5",
+        "#297500",
+        "#d2bf92",
+        "#aeff97",
+        "#d6b64d",
+        "#8c9200"
     ]
 }
